@@ -1,0 +1,177 @@
+*{
+    padding :0;
+    margin: 0;
+    }
+    #navbar
+    {
+    position: sticky;
+    box-shadow: 5px 5px 20px rgba(0, 0, 0, 5.0);
+    background-color: black;
+    }
+    .navbar-brand
+    {
+    font-size: 40px;
+    font-style: italic;
+    color:yellow;
+    text-decoration-line: none;
+    }
+    .btn
+    {
+    background-color: red;
+    margin-left: 30px;
+    text-align: center;
+    padding-top: 5px;
+    padding-left: 5px;
+    padding-bottom: 5px;
+    padding-right: 5px;
+    display: inline;
+    }
+    body{
+    background-image: url(https://images.pexels.com/photos/326333/pexels-photo326333.jpeg?cs=srgb&dl=pexels-pixabay-326333.jpg&fm=jpg);
+    background-size:cover;
+    background-repeat: no repeat;
+    }
+    input
+    {
+    width: 80%;
+    padding: 10px;
+    }
+    h6,img,div,h1
+    {
+    display: inline;
+    }
+    .Location{
+    padding-left: 58%;
+    font-size: 20px;
+    font-style: normal;
+    color: yellow;
+    text-decoration-line: none;
+    }
+    .Offers
+    {
+    padding-left: 40px;
+    font-size: 20px;
+    font-style: normal;
+    color: yellow;
+    text-decoration-line: none;
+    }
+    .signin
+    {
+    padding-left: 40px;
+    font-size: 20px;
+    font-style:normal;
+    color: yellow;
+    text-decoration-line: none;
+    }
+    .Cart
+    {
+    padding-left: 40px;
+    font-size: 20px;
+    font-style: normal;
+    color: yellow;
+    text-decoration-line: none;
+    }
+    h6:hover
+    {
+    color:green;
+    }
+    h6
+    {
+    cursor: pointer;
+    }
+    .img
+    {
+    color: yellow;
+    }
+    .box
+    {
+    padding-top:10px;
+    margin-top: 10px;
+    margin-left: 70px;
+    color:black;
+    }
+    .col
+    {
+    padding-top: 5px;
+    padding-left: 4px;
+    }
+    .title
+    {
+    color: yellow;
+    font-style:italic ;
+    font-weight: bolder;
+    font-size:60px ;
+    text-align: center;
+    }
+    .biri
+    {
+    padding-left: 140px;
+    padding-top: 50px;
+    display: inline-block;
+    cursor: pointer;
+    }
+    h5
+    {
+    font-weight: bolder;
+    color:yellow;
+    text-align: center;
+    }
+    .piz
+    {
+    padding-left: 40px;
+    padding-top: 50px;
+    display: inline-block;
+    cursor: pointer;
+    }
+    .bur
+    {
+    padding-left: 40px;
+    padding-top: 0px;
+    display: inline-block;
+    cursor: pointer;
+    }
+    .shw
+    {
+    padding-left: 40px;
+    padding-top: 50px;
+    display: inline-block;
+    cursor: pointer;
+    }
+    .china
+    {
+    padding-left: 40px;
+    padding-top: 50px;
+    display: inline-block;
+    cursor: pointer;
+    }
+    .ice
+    {
+    padding-left: 40px;
+    padding-top: 50px;
+    display: inline-block;
+    cursor: pointer;
+    }
+    .rig
+    {
+    padding-left: 20px;
+    text-align: center;
+    cursor:pointer;
+    display: inline-block;
+    }
+    .rec
+    {
+    font-style: italic;
+    font-weight: bolder;
+    color: yellow;
+    font-size: 30px;
+    text-align: center;
+    padding-right: 30px;
+    ;
+    }
+    .app
+    {
+    cursor: pointer;
+    padding-left: 50%;
+    padding-top: 10px;
+    }
+    
